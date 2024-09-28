@@ -10,7 +10,7 @@ O projeto "Dragões de House of the Dragon" envolve o desenvolvimento de uma pá
 
 <br>
 
-Este foi o projeto da Semana do zero ao programador contratado, projetado pelos irmão do <a href="https://www.instagram.com/devemdobro/">Dev em Dobro</a>.
+Este foi o projeto da <strong>Semana do Zero ao Programador Contratado</strong>, projetado pelos irmão do <a href="https://www.instagram.com/devemdobro/">Dev em Dobro</a>.
 
 <br>
 
