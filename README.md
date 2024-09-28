@@ -30,4 +30,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<p align="center">Desenvolvido por <a href="https://www.linkedin.com/in/william-almeida-74ab22302/">William Almeida</a>, inspirado por <strong>Dev em Dobro</strong></p>
+<p align="center">Desenvolvido por <a href="https://www.linkedin.com/in/william-almeida-74ab22302/">William Almeida</a>, inspirado pelo <strong>Dev em Dobro</strong></p>
